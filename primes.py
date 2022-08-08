@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import sympy.ntheory as nt 
 
 
-grid_size = 95400
+grid_size = 99000
 
 grid_x = np.zeros(grid_size)
 grid_y = np.zeros(grid_size)
